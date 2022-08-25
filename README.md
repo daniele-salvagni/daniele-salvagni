@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Daniele Salvagni
-- ⚙️ I most frequently use: `.js`, `.java`, `.html`, `.css`, `.psd`, `.dwg`
+- ⚙️ I most frequently use `.js`, `.java`, `.html`, `.css`, `.psd`, `.dwg`
 - 🌱 I’m currently learning React and improving my Javascript
 - 💬 Ask me about mechanical keyboards
 - ⚡ Fun fact: My first line of code was not "Hello World!"
