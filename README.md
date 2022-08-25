@@ -5,4 +5,4 @@
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📫 How to reach me: daniele.salvagni@gmail.com
 - 🕸️ My website is [dan.salvagni.io](https://dan.salvagni.io)
-- ✨ I earned 130 ★ on Github
+- ✨ I earned **130** ★ on Github and pushed 1311 commits
