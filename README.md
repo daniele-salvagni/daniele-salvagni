@@ -1,8 +1,8 @@
 - 👋 Hi, My name is Daniele Salvagni
-- ⚙️ I most frequently use: `.js`, `.java`, `.html`, `.css`, `.psd`, `.dwg`
+- ⚙️ I most frequently use `.js`, `.java`, `.html`, `.css`, `.psd`, `.dwg`
 - 🌱 I’m currently learning React and improving my Javascript
 - 💬 Ask me about mechanical keyboards
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 📫 How to reach me: dan@salvagni.io
+- 📫 Reach me at dan@salvagni.io
 - 🕸️ My website is [dan.salvagni.io](https://dan.salvagni.io)
-- ✨ I earned **134** ★ and pushed 1324 commits on Github
+- ✨ I earned **134** ★ and pushed 1325 commits on Github
