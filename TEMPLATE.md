@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning React and improving my Javascript
 - 💬 Ask me about mechanical keyboards
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 📫 How to reach me: daniele.salvagni@gmail.com
+- 📫 How to reach me: dan@salvagni.io
 - 🕸️ My website is [dan.salvagni.io](https://dan.salvagni.io)
 - ✨ I earned **{{ STARS }}** ★ and pushed {{ COMMITS }} commits on Github
