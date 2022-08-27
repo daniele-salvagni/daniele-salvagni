@@ -1,3 +1,4 @@
+👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
 - ⚙️ I most frequently use `.js`, `.html`, `.scss`, `.psd`, `.java`, `.dwg`
 - 🌱 I’m currently learning React and improving my Javascript
