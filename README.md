@@ -1,12 +1,12 @@
 👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
 - ⚙️ I most frequently use `.js`, `.html`, `.scss`, `.psd`, `.java`, `.dwg`
-- 🌱 I’m currently learning Angular/React and improving my Javascript
+- 🌱 I’m currently learning the Spring Framework and related tech
 - 💬 Ask me about mechanical keyboards
 - ⚡ Fun fact: my first line of code was not "Hello World!"
 - 📫 How to reach me: dan@salvagni.io
 - 🕸️ My website is [dan.salvagni.io](https://dan.salvagni.io)
-- ✨ I earned **153** ★ and pushed 1330 commits on Github
+- ✨ I earned **153** ★ and pushed 1331 commits on Github
 
 📕 &nbsp;**Latest Blog Posts**
 - [Wake On Lan using an ESP32 Telegram bot](https://dan.salvagni.io/b/embedded-telegram-bot-for-wake-on-lan-pc)
