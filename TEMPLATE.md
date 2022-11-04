@@ -1,13 +1,15 @@
 👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
-- ⚙️ I most frequently use `.js`, `.html`, `.scss`, `.psd`, `.java`, `.dwg`
-- 🌱 I’m currently learning the Spring Framework and related tech
+- 👨‍💻 I'm a Software Developer at [Claranet Switzerland](https://www.claranet.ch)🇨🇭
+- ✨ I earned **{{ STARS }}** ★ and pushed {{ COMMITS }} commits on Github
 - 💬 Ask me about mechanical keyboards
-- ⚡ Fun fact: my first line of code was not "Hello World!"
+- ⚙️ I most frequently use `.js`, `.ts`, `.sh`, `.html`, `.scss`, `.java`, `.psd`
+- 🌱 I’m currently learning more about AWS
 - 📫 How to reach me: dan@salvagni.io
 - 🕸️ My website is [dan.salvagni.io](https://dan.salvagni.io)
-- ✨ I earned **{{ STARS }}** ★ and pushed {{ COMMITS }} commits on Github
 
 📕 &nbsp;**Latest Blog Posts**
+- [AWS SAM: Creating a REST API from a Swagger file](https://dan.salvagni.io/b/aws-sam-rest-api-from-swagger-file)
+- [AWS SAM and Typescript: building functions and layers](https://dan.salvagni.io/b/aws-sam-and-typescript-building-functions-and-layers)
 - [Wake On Lan using an ESP32 Telegram bot](https://dan.salvagni.io/b/embedded-telegram-bot-for-wake-on-lan-pc)
 - [The Planck - An ortholinear keyboard](https://dan.salvagni.io/b/the-planck-an-ortholinear-keyboard)
