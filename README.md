@@ -1,10 +1,10 @@
 👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
-- 👨‍💻 I'm a Software Developer at [Claranet Switzerland](https://www.claranet.ch)🇨🇭
-- ✨ I earned **151** ★ and pushed 1435 commits on Github
+- 👨‍💻 I'm a Software Developer at [Claranet Switzerland🇨🇭](https://www.claranet.ch)
+- ✨ I earned **151** ★ and pushed 1436 commits on Github
 - 💬 Ask me about mechanical keyboards
-- ⚙️ I most frequently use `.js`, `.ts`, `.sh`, `.html`, `.scss`, `.java`, `.psd`
-- 🌱 I’m currently learning more about AWS
+- ⚙️ I most frequently use `.js`, `.ts`, `.sh`, `.html`, `.css`, `.java`, `.psd`
+- 🌱 I’m currently studing for my AWS Certifications
 - 📫 How to reach me: dan@salvagni.io
 - 🕸️ My website is [dan.salvagni.io](https://dan.salvagni.io)
 
