@@ -1,7 +1,7 @@
 👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
 - 👨‍💻 I'm a Software Developer at [Helix Cloud🇨🇭](https://www.helixcloud.ch/)
-- ✨ I earned **190** ★ and pushed 1532 commits on Github
+- ✨ I earned **190** ★ and pushed 1533 commits on Github
 - 💬 Ask me about mechanical keyboards
 - ⚙️ I most frequently use `.ts`, `.js`, `.py`, `.sh`, `.html`, `.css`, `.java`, `.psd`, `.cs`
 - 🌱 I’m currently studing for my next AWS Certifications
