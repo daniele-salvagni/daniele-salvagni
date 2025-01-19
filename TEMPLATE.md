@@ -1,14 +1,13 @@
 👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
-- 👨‍💻 I'm a Software Developer at [Helix Cloud🇨🇭](https://www.helixcloud.ch/)
+- 👨‍💻 I'm a Software / Cloud Engineer at [Helix Cloud🇨🇭](https://www.helixcloud.ch/)
 - ✨ I earned **{{ STARS }}** ★ and pushed {{ COMMITS }} commits on Github
 - 💬 Ask me about mechanical keyboards
-- ⚙️ I most frequently use `.ts`, `.js`, `.py`, `.sh`, `.html`, `.css`, `.java`, `.psd`, `.cs`
-- 🌱 I’m currently studing for my next AWS Certifications
-- 📫 How to reach me: dan@salvagni.io
+- ⚙️ I most frequently use `.ts`, `.js`, `.py`, `ipynb`, `.sh`, `.html`, `.css`, `.java`, `.psd`, `.cs`
 - 🕸️ My website is [dsalvagni.com](https://dsalvagni.com)
 
 📕 &nbsp;**Latest Blog Posts**
+- [Simplify ECR image building and publishing with CodePipeline V2](https://dsalvagni.com/b/simplify-ecr-image-building-and-publishing-with-codepipeline/)
 - [An overview of my 10-inch Rack Server setup](https://dsalvagni.com/b/an-overview-of-my-10-inch-rack-server-setup/)
 - [An Astro plugin to open external links in a new tab](https://dsalvagni.com/b/astro-plugin-open-external-links-in-new-tab/)
 - [Paginators in the AWS SDK for Javascript V3](https://dsalvagni.com/b/paginators-in-the-aws-sdk-for-javascript-v3/)
