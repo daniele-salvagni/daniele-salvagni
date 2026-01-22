@@ -3,10 +3,11 @@
 - 👨‍💻 I'm a Software / Cloud Engineer at [Helix Cloud🇨🇭](https://www.helixcloud.ch/)
 - ✨ I earned **{{ STARS }}** ★ and pushed {{ COMMITS }} commits on Github
 - 💬 Ask me about mechanical keyboards
-- ⚙️ I most frequently use `.ts`, `.js`, `.py`, `ipynb`, `.sh`, `.html`, `.css`, `.java`, `.psd`, `.cs`
 - 🕸️ My website is [dsalvagni.com](https://dsalvagni.com)
 
 📕 &nbsp;**Latest Blog Posts**
+- [Dense Model Serving on AWS EKS with Triton, vLLM, and GPU slicing](https://dsalvagni.com/b/dense-model-serving-on-aws-eks-with-triton-vllm-gpu-slicing/)
+- [Serverless RAG in minutes using AWS Bedrock Knowledge Bases and S3 Vectors](https://dsalvagni.com/b/serverless-rag-in-minutes-with-aws-bedrock-kb-and-s3-vectors/)
 - [Simplify ECR image building and publishing with CodePipeline V2](https://dsalvagni.com/b/simplify-ecr-image-building-and-publishing-with-codepipeline/)
 - [An overview of my 10-inch Rack Server setup](https://dsalvagni.com/b/an-overview-of-my-10-inch-rack-server-setup/)
 - [An Astro plugin to open external links in a new tab](https://dsalvagni.com/b/astro-plugin-open-external-links-in-new-tab/)
