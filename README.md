@@ -1,7 +1,7 @@
 👀 &nbsp;**Profile**
 - 👋 Hi there, my name is Daniele Salvagni
 - 👨‍💻 I'm a Software / Cloud Engineer at [Helix Cloud 🇨🇭](https://www.helixcloud.ch/)
-- ✨ I earned **206** ★ and pushed 1979 commits on Github
+- ✨ I earned **206** ★ and pushed 1981 commits on Github
 - 💬 Ask me about mechanical keyboards
 - 🕸️ My website is [dsalvagni.com](https://dsalvagni.com)
 
